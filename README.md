@@ -27,4 +27,4 @@ The visual structure is inspired by [WorldCast](https://teal024.github.io/WorldC
 - Citation: `citation.bib` and the citation block in `index.html`
 - Paper and LaTeX package: `assets/DataPraxis.pdf`, `assets/DataPraxis-arxiv.zip`
 
-The preprint preserves the original paper template and author affiliation order. The anonymous conference submission remains separate.
+The preprint uses the supplied LongCat arXiv template and preserves the author affiliation order. The anonymous conference submission remains separate.
